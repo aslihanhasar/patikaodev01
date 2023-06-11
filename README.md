@@ -10,6 +10,8 @@
     * The Sieve of Eratosthenes Method
     * Algorithm
     * The Sieve of Eratosthenes Sculpture
+    * PrimeNumbers.java class that checks whether the entered number is a prime number and the numbers
+    up to the entered number and finds the total prime number.
 
 ---
 
@@ -88,6 +90,12 @@ algorithm Sieve of Eratosthenes is
 
 The Sieve of Eratosthenes is a 1999 sculpture by Mark di Suvero, installed on the Stanford University
 campus in Stanford, California, United States.
+
+### The Program Output
+The program output for PrimeNumbers.java class will be as : 
+
+![img_4.png](img_4.png)
+
 
 ---
 
